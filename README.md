@@ -4,7 +4,8 @@
 - 📫 whatsapp 880 1834234604   
 - 😄 Pronouns: he/him
   
-[Facebook]([url](https://www.facebook.com/parveznbh))
+[Facebook](https://www.facebook.com/parveznbh)
+
 
 <!---
 MOSHARAFhPARVEZ/MOSHARAFhPARVEZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
