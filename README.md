@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
   
 **Connect with me:**
-[(https://github.com/Mayeu/not-on-facebook-icon)](https://www.facebook.com/parveznbh)
+[Facebook](https://www.facebook.com/parveznbh)   [Linkedin](https://www.linkedin.com/in/md-mosharaf-hossain-144917231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [twitter](https://x.com/NbhParvez?t=KcAu3M1EUV7nea_HBNhruQ&s=09)  [Instagram](https://www.instagram.com/parvez.nbh?igsh=MWRwY3R2cjNveXgzaw==)
 
 
 
