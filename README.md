@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MOSHARAFhPARVEZ
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning MERN Stack Development 
 - 📫 How to reach me parveznbh2026@gmail.com
 - 📫 whatsapp  +880 1834234604   
 - 😄 Pronouns: he/him
