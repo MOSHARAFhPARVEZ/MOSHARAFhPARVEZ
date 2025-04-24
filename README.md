@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning MERN Stack Development 
 - 📫 How to reach me parveznbh2026@gmail.com
 - 📫 whatsapp  +880 1834234604   
-- 😄 Pronouns: he/him
+- 😄 Pronouns: MH
   
 **Connect with me:**
 
