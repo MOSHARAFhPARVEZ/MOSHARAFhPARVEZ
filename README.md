@@ -30,8 +30,15 @@ Committed to delivering high-quality, scalable, and efficient web solutions.
 
 ### 💼 Work Experience
 
+**Full Stack Developer — NIBIZ SOFT**  
+📅 *Apr 2025 – Present*  
+- Building and maintaining full-stack systems (real-estate ERP, HR & payroll modules).  
+- Designing RESTful APIs and integrating third-party payment & reporting services.  
+- Implementing role-based access control, multi-tenant features, and performance optimization.  
+- Collaborating with product teams to deliver end-to-end solutions.
+
 **Junior Laravel Developer — Creative Software**  
-📅 *Nov 2024 – Present*  
+📅 *Nov 2024 – Mar 2025*  
 - Developing and maintaining scalable web applications using Laravel.  
 - Implementing complex database structures and optimizing performance.  
 - Collaborating closely with front-end developers and mentoring interns.  
